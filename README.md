@@ -1,3 +1,5 @@
+## Heyaa
+
 [![@creepygal's Holopin board](https://holopin.me/creepygal)](https://holopin.io/@creepygal)
 - 👋 Hi, I’m @creepygal
 - 👀 I’m interested in Data Science
@@ -28,4 +30,5 @@
 
 ## Recently Played Spotify Songs
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=uz4uw7bn828g4nhtxrvnh71i2)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal&count=1)
+<!-- ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=uz4uw7bn828g4nhtxrvnh71i2) -->
