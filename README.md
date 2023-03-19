@@ -30,5 +30,5 @@
 
 ## Recently Played Spotify Songs
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal7&count=1)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal7&count=1) -->
 <!-- ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=uz4uw7bn828g4nhtxrvnh71i2) -->
