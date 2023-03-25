@@ -11,6 +11,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creepygal&show_icons=true&theme=react)
 
+## Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creepygal)](https://github.com/creepygal/github-readme-stats)
 
 ## GitHub Activity
 
